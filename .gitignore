@@ -1,0 +1,16 @@
+
+# Dataset files - keep original data outside GitHub
+*.csv
+
+# Temporary files
+*.tmp
+*.log
+*.bak
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# MySQL backup and export files
+*.sql.gz
+*.dump
